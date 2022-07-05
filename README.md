@@ -7,16 +7,21 @@ My name is
 Machine learning application in survival analysis is my current research topic.
 This repository will summarize all my research work ready for public access. 
 
-Feel
-free to contact me: jiaxiang.cheng@outlook.com
+Feel free to contact me: jiaxiang.cheng@outlook.com
 
-## Remaining Useful Life Prediction
+## Table of Contents
+3. Remaining Useful Life Prediction   
+3.1 Transformer  
+3.2 Convolutional Neural Network (CNN)   
+3.3 Long Short-Term Memory (LSTM)
+
+## 3. Remaining Useful Life Prediction
 
 Currently, several milestone works regarding this topic have been reproduced,
 including transformer, convolutional neural network (CNN),
 and long short-term memory (LSTM).
 
-### Transformer
+### 3.1 Transformer
 Repo: [PyTorch-Transformer-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction?style=flat-square)
@@ -33,7 +38,7 @@ Repo: [PyTorch-Transformer-for-RUL-Prediction](https://github.com/jiaxiang-cheng
     publisher={Springer}
 }
 ```
-### Convolutional Neural Network (CNN) 
+### 3.2 Convolutional Neural Network (CNN) 
 Repo: [PyTorch-CNN-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction?style=flat-square)
@@ -48,7 +53,7 @@ Repo: [PyTorch-CNN-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch
     organization={Springer}
 }
 ```
-### Long Short-Term Memory (LSTM) 
+### 3.3 Long Short-Term Memory (LSTM) 
 Repo: [PyTorch-LSTM-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction?style=flat-square)
