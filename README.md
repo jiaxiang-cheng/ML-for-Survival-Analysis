@@ -16,7 +16,8 @@ Currently, several milestone works regarding this topic have been reproduced,
 including transformer, convolutional neural network (CNN),
 and long short-term memory (LSTM).
 
-###[Transformer](https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction)
+### Transformer 
+Repo: [PyTorch-Transformer-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction)
 ```
 @article{mo2021remaining,
     title={Remaining useful life estimation via transformer encoder enhanced by a gated convolutional unit},
@@ -29,7 +30,8 @@ and long short-term memory (LSTM).
     publisher={Springer}
 }
 ```
-###[Convolutional Neural Network (CNN)](https://github.com/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction)
+### Convolutional Neural Network (CNN) 
+Repo: [PyTorch-CNN-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction)
 ```
 @inproceedings{sateesh2016deep,
     title={Deep convolutional neural network based regression approach for estimation of remaining useful life},
@@ -40,7 +42,8 @@ and long short-term memory (LSTM).
     organization={Springer}
 }
 ```
-###[Long Short-Term Memory (LSTM)](https://github.com/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction)
+### Long Short-Term Memory (LSTM) 
+Repo: [PyTorch-LSTM-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction)
 ```
 @inproceedings{zheng2017long,
     title={Long short-term memory network for remaining useful life estimation},
