@@ -16,8 +16,11 @@ Currently, several milestone works regarding this topic have been reproduced,
 including transformer, convolutional neural network (CNN),
 and long short-term memory (LSTM).
 
-### Transformer 
+### Transformer
 Repo: [PyTorch-Transformer-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction?style=flat-square)
+
 ```
 @article{mo2021remaining,
     title={Remaining useful life estimation via transformer encoder enhanced by a gated convolutional unit},
@@ -32,6 +35,9 @@ Repo: [PyTorch-Transformer-for-RUL-Prediction](https://github.com/jiaxiang-cheng
 ```
 ### Convolutional Neural Network (CNN) 
 Repo: [PyTorch-CNN-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction?style=flat-square)
+
 ```
 @inproceedings{sateesh2016deep,
     title={Deep convolutional neural network based regression approach for estimation of remaining useful life},
@@ -44,6 +50,9 @@ Repo: [PyTorch-CNN-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch
 ```
 ### Long Short-Term Memory (LSTM) 
 Repo: [PyTorch-LSTM-for-RUL-Prediction](https://github.com/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction?style=flat-square)
+
 ```
 @inproceedings{zheng2017long,
     title={Long short-term memory network for remaining useful life estimation},
