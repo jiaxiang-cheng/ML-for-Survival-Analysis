@@ -1,8 +1,53 @@
 # Machine Learning for Survival Analysis
 **Survival analysis, as an important and independent subject studied and practiced
 in different industries for decades, has been through an intelligent transformation.**
-My name is Cheng Jiaxiang, a Ph.D. student working at SP Group-NTU Joint Lab, Singapore.
+My name is 
+[Cheng Jiaxiang](https://www.linkedin.com/in/jiaxiang-cheng/), a Ph.D. student working at 
+[SP Group-NTU Joint Lab](http://eeeweba.ntu.edu.sg/power_projects/SPGroup-NTU/0_default.asp), Singapore.
 Machine learning application in survival analysis is my current research topic.
-This repository will summarize all my research work ready for public access. Feel
+This repository will summarize all my research work ready for public access. 
+
+Feel
 free to contact me: jiaxiang.cheng@outlook.com
 
+## Remaining Useful Life Prediction
+
+Currently, several milestone works regarding this topic have been reproduced,
+including transformer, convolutional neural network (CNN),
+and long short-term memory (LSTM).
+
+###[Transformer](https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction)
+```
+@article{mo2021remaining,
+    title={Remaining useful life estimation via transformer encoder enhanced by a gated convolutional unit},
+    author={Mo, Yu and Wu, Qianhui and Li, Xiu and Huang, Biqing},
+    journal={Journal of Intelligent Manufacturing},
+    volume={32},
+    number={7},
+    pages={1997--2006},
+    year={2021},
+    publisher={Springer}
+}
+```
+###[Convolutional Neural Network (CNN)](https://github.com/jiaxiang-cheng/PyTorch-CNN-for-RUL-Prediction)
+```
+@inproceedings{sateesh2016deep,
+    title={Deep convolutional neural network based regression approach for estimation of remaining useful life},
+    author={Sateesh Babu, Giduthuri and Zhao, Peilin and Li, Xiao-Li},
+    booktitle={International conference on database systems for advanced applications},
+    pages={214--228},
+    year={2016},
+    organization={Springer}
+}
+```
+###[Long Short-Term Memory (LSTM)](https://github.com/jiaxiang-cheng/PyTorch-LSTM-for-RUL-Prediction)
+```
+@inproceedings{zheng2017long,
+    title={Long short-term memory network for remaining useful life estimation},
+    author={Zheng, Shuai and Ristovski, Kosta and Farahat, Ahmed and Gupta, Chetan},
+    booktitle={2017 IEEE international conference on prognostics and health management (ICPHM)},
+    pages={88--95},
+    year={2017},
+    organization={IEEE}
+}
+```
